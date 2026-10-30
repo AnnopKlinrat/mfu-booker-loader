@@ -1,0 +1,13 @@
+{
+  "name": "mfu-booker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "MFU Badminton Booker (licensed). Starts the program after checking your license token.",
+  "scripts": {
+    "start": "node loader.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
